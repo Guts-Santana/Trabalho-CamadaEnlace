@@ -1,0 +1,3 @@
+Para garantir o funcionamento do programa, abra-o no terminal e digite make compile. Após isso,
+digite uma mensagem qualquer para ser codificada. O tipo de codificação pode ser escolhido
+através de alterações simples nas linhas 37 e 69 do código CamadaFisica.cpp.
